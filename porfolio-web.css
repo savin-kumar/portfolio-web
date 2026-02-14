@@ -1,0 +1,29 @@
+ img{
+    height: 180px;
+    width: 180px;
+    border-radius: 10px;
+ }
+ .heading{
+    display: flex;
+    gap: 20px;
+ }
+ .detail{
+   display: flex;
+   gap: 20px;
+ }
+ .heading-info{
+   line-height: 25px;
+ }
+  .education{
+   display: flex;
+   gap: 100px;
+  }
+.list{
+   display: flex;
+   gap: 100px;
+}
+.refrence{
+   display: flex;
+   gap: 50px;
+}
+  
